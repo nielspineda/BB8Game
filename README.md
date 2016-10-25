@@ -1,1 +1,2 @@
-Simple read me
+ComputerGraphics_AS2 is a RAR file containing a complete game that I made for my CS174 class.  I used a combination of blender and Photoshop for some of the images and textures, and the actual game is coded in Javascript.  The Javascript code can be found in sample_project> animation.js.  To actually play the game, open index.html in Firefox only (Chrome had some bugs with it), and click alt+a.  
+
